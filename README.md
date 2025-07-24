@@ -2,10 +2,6 @@
 
 ###
 
-<p align="left">⌨️ Typing my way into tech...<br><br>🚀 Launching into the dev world!<br><br>🌱 Growing through code, learning every day<br><br>🧠 Thinking like a dev, learning like a student<br><br>✨ From digital curiosity to future developer</p>
-
-###
-
 <br clear="both">
 
 <div align="left">
@@ -41,6 +37,14 @@
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tigrelau/tigrelau/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tigrelau/tigrelau/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tigrelau/tigrelau/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 <div align="left">
   <a href="https://www.instagram.com/tigrelau/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=ig&logo=instagram&label=&color=000000&logoColor=pink&labelColor=000000&style=for-the-badge" height="38" alt="instagram logo"  />
@@ -50,13 +54,5 @@
     <img src="https://img.shields.io/static/v1?message=linkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tigrelau/tigrelau/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tigrelau/tigrelau/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tigrelau/tigrelau/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
