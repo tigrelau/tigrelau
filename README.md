@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"># 🚀 Launching into the dev world!<br><br>Hey there! I'm Laura, a Software Engineering student at FIAP with a growing passion for development and all tech stuff.<br><br>I'm passionate about technology and always curious about how things work behind the screen. I've been learning and building with HTML, CSS, JavaScript, TypeScript, React.js and Python. I'm excited to apply these skills in real-world projects.<br><br>This space is where I’ll combine my creativity and technical growth to build interesting and didactic projects, things that teach, challenge, and (hopefully) inspire others too.<br><br>My background in digital metrics, performance strategy, and bilingual client training gave me a solid foundation in communication, data thinking, and user experience,  all of which I bring now into tech.<br><br>  Let’s build and grow together!</p>
+<p align="left">🚀 Launching into the dev world!<br><br>Hey there! I'm Laura, a Software Engineering student at FIAP with a growing passion for development and all tech stuff.<br><br>I'm passionate about technology and always curious about how things work behind the screen. I've been learning and building with HTML, CSS, JavaScript, TypeScript, React.js and Python. I'm excited to apply these skills in real-world projects.<br><br>This space is where I’ll combine my creativity and technical growth to build interesting and didactic projects, things that teach, challenge, and (hopefully) inspire others too.<br><br>My background in digital metrics, performance strategy, and bilingual client training gave me a solid foundation in communication, data thinking, and user experience,  all of which I bring now into tech.<br><br>  Let’s build and grow together!</p>
 
 ###
 
