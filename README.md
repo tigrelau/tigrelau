@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">⌨️ Typing my way into tech...<br><br>🚀 Launching into the dev world!<br><br>🌱 Growing through code, learning every day<br><br>🧠 Thinking like a dev, learning like a student<br><br>✨ From digital curiosity to future developer</h5>
+<p align="left">⌨️ Typing my way into tech...<br><br>🚀 Launching into the dev world!<br><br>🌱 Growing through code, learning every day<br><br>🧠 Thinking like a dev, learning like a student<br><br>✨ From digital curiosity to future developer</p>
 
 ###
 
@@ -53,8 +53,10 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/tigrelau/tigrelau/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tigrelau/tigrelau/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tigrelau/tigrelau/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tigrelau/tigrelau/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
