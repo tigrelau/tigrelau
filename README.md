@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"># 🚀 Launching into the dev world!<br><br>Hey there! I'm Laura, a Software Engineering student at FIAP with a growing passion for development and all tech stuff.<br><br>I'm passionate about technology and always curious about how things work behind the screen. I've been learning and building with HTML, CSS, JavaScript, TypeScript, React.js and Python. I'm excited to apply these skills in real-world projects.<br><br>This space is where I’ll combine my creativity and technical growth to build interesting and didactic projects, things that teach, challenge, and (hopefully) inspire others too.<br><br>My background in digital metrics, performance strategy, and bilingual client training gave me a solid foundation in communication, data thinking, and user experience,  all of which I bring now into tech.<br><br>  Let’s build and grow together!</p>
+<p align="left">🚀 Launching into the dev world!<br><br>Hey there! I'm Laura, a Software Engineering student at FIAP with a growing passion for development and all tech stuff.<br><br>I'm passionate about technology and always curious about how things work behind the screen. I've been learning and building with HTML, CSS, JavaScript, TypeScript, React.js and Python. I'm excited to apply these skills in real-world projects.<br><br>This space is where I’ll combine my creativity and technical growth to build interesting and didactic projects, things that teach, challenge, and (hopefully) inspire others too.<br><br>My background in digital metrics, performance strategy, and bilingual client training gave me a solid foundation in communication, data thinking, and user experience,  all of which I bring now into tech.<br><br>  Let’s build and grow together!</p>
 
 ###
 
@@ -13,40 +13,42 @@
 
 ###
 
-<img align="right" height="169" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2x2eWRndnA1eGU2amcxZzNqZHIycXk4d2s2eDR1ZHAyOHhjdmc2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/92YG8KKSjYhMc/giphy.gif"  />
+<br clear="both">
+
+<img align="right" height="194" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2x2eWRndnA1eGU2amcxZzNqZHIycXk4d2s2eDR1ZHAyOHhjdmc2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/92YG8KKSjYhMc/giphy.gif"  />
 
 ###
 
 <div align="left">
   <a href="https://www.instagram.com/tigrelau/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=ig&logo=instagram&label=&color=000000&logoColor=pink&labelColor=000000&style=for-the-badge" height="49" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=ig&logo=instagram&label=&color=000000&logoColor=pink&labelColor=000000&style=for-the-badge" height="66" alt="instagram logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=dc&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="49" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=dc&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="66" alt="discord logo"  />
   <a href="https://www.linkedin.com/in/tigrelau/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=linkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="49" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=linkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="66" alt="linkedin logo"  />
   </a>
 </div>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="51" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="61" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="51" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="61" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="51" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="61" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="51" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="61" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="51" alt="arduino logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="61" alt="arduino logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="51" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="61" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="51" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="61" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="51" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="61" alt="github logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="51" alt="notion logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="61" alt="notion logo"  />
 </div>
 
 ###
