@@ -20,18 +20,6 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/tigrelau/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=ig&logo=instagram&label=&color=000000&logoColor=pink&labelColor=000000&style=for-the-badge" height="66" alt="instagram logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=dc&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="66" alt="discord logo"  />
-  <a href="https://www.linkedin.com/in/tigrelau/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=linkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="66" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="61" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="61" alt="html5 logo"  />
@@ -49,6 +37,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="61" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="61" alt="notion logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/tigrelau/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=ig&logo=instagram&label=&color=000000&logoColor=pink&labelColor=000000&style=for-the-badge" height="94" alt="instagram logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=dc&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="94" alt="discord logo"  />
+  <a href="https://www.linkedin.com/in/tigrelau/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=linkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="94" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
