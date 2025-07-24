@@ -37,15 +37,11 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tigrelau/tigrelau/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tigrelau/tigrelau/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tigrelau/tigrelau/output/pacman-contribution-graph.svg">
-</picture>
+![Snake animation](https://github.com/tigrelau/ubiratan-motta/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/tigrelau/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=ig&logo=instagram&label=&color=000000&logoColor=pink&labelColor=000000&style=for-the-badge" height="38" alt="instagram logo"  />
   </a>
