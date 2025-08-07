@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Software Engineering Student | São Paulo, Brazil<br><br>Welcome to my profile! I'm passionate about frontend development. I create intuitive interfaces, clean layouts and user-focused experiences with performance, responsiveness and accessibility in mind.</p>
+<p align="left">Software Engineering Student | São Paulo, Brazil<br><br>Welcome to my profile! I'm passionate about frontend development. I create intuitive interfaces, clean layouts and user-focused experiences with performance, security and accessibility in mind.</p>
 
 ###
 
@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">Guided by a dedication to quality and innovation, I pursue excellence with creativity and precision. I build intuitive, accessible, and responsive user experiences, focusing on optimized performance and seamless back-end integration.</p>
+<p align="left">Guided by a dedication to quality and innovation, I pursue excellence with creativity and precision. I build intuitive, accessible and secure user experiences, focusing on optimized performance and seamless back-end integration.</p>
 
 ###
 
