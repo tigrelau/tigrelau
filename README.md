@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Software Engineering Student | São Paulo, Brazil<br><br>Welcome to my profile! I'm passionate about frontend development. I create intuitive interfaces, clean layouts and user-focused experiences with performance, security and accessibility in mind.</p>
+<p align="left">Software Engineering Student | São Paulo, Brazil<br><br>Welcome to my profile! I’m passionate about software development and dedicated to building impactful digital solutions. I focus on creating intuitive, efficient, and reliable applications — always keeping performance, security, and accessibility in mind.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">• Software Engineering student at FIAP.<br>• Frontend-focused Developer in training.<br>• Driven to build intuitive interfaces and user-friendly web experiences.<br>• Committed to continuous learning in the dynamic world of tech.</p>
+<p align="left">•🎓 Software Engineering student at FIAP.<br>•💻 Aspiring Software Developer with strong foundations in web technologies.<br>• 🚀 Dedicated to learning and applying modern tools, frameworks, and methodologies.<br>•🌱 Continuously improving through practice, curiosity, and real-world projects.</p>
 
 ###
 
@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">Guided by a dedication to quality and innovation, I pursue excellence with creativity and precision. I build intuitive, accessible and secure user experiences, focusing on optimized performance and seamless back-end integration.</p>
+<p align="left">Guided by a commitment to quality and innovation, I strive to develop software that is not only functional, but also meaningful. My goal is to deliver scalable, user-centric solutions with a balance of creativity and technical precision from frontend experiences to backend logic and integration.</p>
 
 ###
 
@@ -56,7 +56,7 @@
 
 ###
 
-<p align="left">Together, we can transform ideas into impactful solutions through thoughtful coding and committed effort. Let’s collaborate and leave a meaningful mark on the tech world.</p>
+<p align="left">I believe technology is a powerful tool for transformation. Let’s collaborate to turn ideas into impactful solutions and leave a positive mark in the tech world.</p>
 
 ###
 
