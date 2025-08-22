@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">•🎓 Software Engineering student at FIAP.<br>•💻 Aspiring Software Developer with strong foundations in web technologies.<br>• 🚀 Dedicated to learning and applying modern tools, frameworks, and methodologies.<br>•🌱 Continuously improving through practice, curiosity, and real-world projects.</p>
+<p align="left">• Software Engineering student at FIAP.<br>• Aspiring Software Developer with strong foundations in web technologies.<br>• Dedicated to learning and applying modern tools, frameworks, and methodologies.<br>• Continuously improving through practice, curiosity, and real-world projects.</p>
 
 ###
 
