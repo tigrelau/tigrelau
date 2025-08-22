@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Software Engineering Student | São Paulo, Brazil<br><br>Welcome to my profile! I’m passionate about software development and dedicated to building impactful digital solutions. I focus on creating intuitive, efficient, and reliable applications — always keeping performance, security, and accessibility in mind.</p>
+<p align="left">Software Engineering Student | São Paulo, Brazil<br><br>Welcome to my profile! I’m passionate about software development and dedicated to building impactful digital solutions. I focus on creating intuitive, efficient, and reliable applications, always keeping performance, security, and accessibility in mind.</p>
 
 ###
 
